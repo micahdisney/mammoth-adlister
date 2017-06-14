@@ -1,4 +1,5 @@
 package com.codeup.adlister.models;
+import com.codeup.adlister.util.Password;
 
 public class Ad {
     private long id;
